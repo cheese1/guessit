@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://guessit.io/</loc>
+         <lastmod>2021-11-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guessit.io/configuration/</loc>
+         <lastmod>2021-11-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guessit.io/migration/</loc>
+         <lastmod>2021-11-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guessit.io/migration2to3/</loc>
+         <lastmod>2021-11-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guessit.io/properties/</loc>
+         <lastmod>2021-11-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guessit.io/sources/</loc>
+         <lastmod>2021-11-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
